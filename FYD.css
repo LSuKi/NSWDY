@@ -1,4 +1,4 @@
-.FYDTB { width: 900px; height: 1600px; border-collapse: collapse; border-spacing: 0px; border:10px #0B3050 solid; margin: 0px auto; background: #D2DCE0;}
+.FYDTB { width: 900px; height: 1600px; border-collapse: collapse; border-spacing: 0px; border:10px #0B3050 solid; background: #D2DCE0; margin-left: -20px}
 .FYDImg { width: 900px !important; height:auto !important; margin-top: -10px;}
 .SECHB {width: 900px; height: 614px; margin: 0px auto; text-align: center; position: relative;  display: inline-block; }
 .img_BT { position: absolute;  bottom: 0; display: inline-block;  width: 60px;  text-align: center;  color: #0A2F4C; font-family: 'ZCOOL XiaoWei', serif; }
