@@ -2,7 +2,7 @@
 .FYDImg { width: 900px !important; height:auto !important; margin: 0px;}
 .SECHB {width: 900px; height: 614px; margin: 0px auto; text-align: center; position: relative;  display: inline-block; }
 .img_BT { position: absolute;  bottom: 0; display: inline-block;  width: 60px;  text-align: center;  color: #0A2F4C; font-family: 'ZCOOL XiaoWei', serif; }
-.img_BT1 {  font-size: 80px; margin-bottom: 290px; margin-left: 50px; font-style: italic; }
+.img_BT1 {  font-size: 80px; margin-bottom: 290px; margin-left: 50px; font-style: italic;line-height: 70px; }
 .img_BT2 {  font-size: 60px; margin-bottom: 100px; margin-left: 150px; font-style: italic; }
 .img_BT3 { font-size: 30px; margin-bottom: 100px; margin-left: 70px;font-family: '黑体';  width: 40px; }
 .SCTable { font-family:'华文仿宋'; font-weight: bold;  width: 860px; height: 830px; border-collapse: collapse; border-spacing: 0px; border:0px; margin: 0px auto; background: #D2DCE0; margin: 0px; }
